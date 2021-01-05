@@ -1,0 +1,18 @@
+&inputs
+	Nx = 65
+	Ny = 257
+	Ra = 1e5
+	Pr = 0.01
+	thr = 1e-3
+	kp = 1
+	alpha = 1
+	a_diff = 0.2
+  a_adv = 0.5
+	total_time = 1
+	choice = 'random'
+	outputfile_1 = 'T_init.dat'
+	outputfile_2 = 'w_init.dat'
+	outputfile_T = 'T_result.dat'
+	outputfile_S = 'S_result.dat'
+	outputfile_w = 'w_result.dat'
+/

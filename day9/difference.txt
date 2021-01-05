@@ -1,0 +1,1 @@
+Since diffusive timestep is ignored, beta >= 0.5 will have much quicker calculation speed, but the diffusion effect is weaker.

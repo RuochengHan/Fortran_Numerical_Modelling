@@ -1,0 +1,4 @@
+./convect_2d_imp
+python3 plot.py -d w_result.dat
+python3 plot.py -d S_result.dat
+python3 plot.py -d T_result.dat

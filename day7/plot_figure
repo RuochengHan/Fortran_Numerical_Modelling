@@ -1,0 +1,3 @@
+python plot.py -d w_result.dat
+python plot.py -d S_result.dat
+python plot.py -d T_result.dat

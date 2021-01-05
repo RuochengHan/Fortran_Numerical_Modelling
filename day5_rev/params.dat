@@ -1,0 +1,11 @@
+&inputs
+	N = 51
+	L = 1
+	a_diff = 0.2
+  a_adv = 0.6
+  B = 1
+	total_time = 1
+	choice = 'random'
+	outputfile_1 = 'diff_init.dat'
+	outputfile_2 = 'diff_result.dat'
+/
