@@ -22,9 +22,8 @@ This is the homework of ETH course
 
 Iterative Poisson solver.
 
-![day6_1](https://latex.codecogs.com/svg.latex?\frac{\partial^2%20T}{\partial%20x^2}%20+%20\frac{\partial^2%20u}{\partial%20y^2}=f)
+![day6_1](https://latex.codecogs.com/svg.latex?\frac{\partial^2%20u}{\partial%20x^2}%20+%20\frac{\partial^2%20u}{\partial%20y^2}=f)
 
-
-
+## day7 ##
 
 
