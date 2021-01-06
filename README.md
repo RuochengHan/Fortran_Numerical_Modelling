@@ -30,7 +30,8 @@ Iterative Poisson solver.
 ## day7 ##
 
 Use Poisson solver for two times for 2D convection-diffusion along time.
-With initialization of spike or random, then calculate Poisson-eqs every time step. Others same as day6.
+With initialization of spike or random, then calculate Poisson-eqs every time step. 
+Boundary condition same as in day5.
 
 ![day7_1](https://latex.codecogs.com/svg.latex?-\frac{\partial%20p}{\partial%20x}+\nabla^2v_x%20=%200)
 
