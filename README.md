@@ -3,7 +3,7 @@ This is the homework of ETH course
 
 ## day4 ##
 2D diffusion with initialization of spike and random. \
-![](https://latex.codecogs.com/svg.latex?\Large&space;\frac{\partial T}{\partial t}=\frac{\partial^2 T}{\partial x^2}+\frac{\partial^2 T}{\partial y^2}) 
+![](https://latex.codecogs.com/svg.latex?\frac{\partial%20T}{\partial%20t}=\frac{\partial^2%20T}{\partial%20x^2}%20+%20\frac{\partial^2%20T}{\partial%20y^2}) 
 ![](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
 
 ## day5 ##
