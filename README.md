@@ -35,6 +35,13 @@ Use Poisson solver for two times for 2D convection along time.
 
 ![day7_2](https://latex.codecogs.com/svg.latex?-\frac{\partial%20p}{\partial%20x}+\nabla^2v_x%20=%20-RaT)
 
-combine and cancel p related term => ![day7_3](https://latex.codecogs.com/svg.latex?\nabla^2(\frac{\partial%20v_x}{\partial%20y}%20-%20\frac{\partial%20v_x}{\partial%20y})=%20Ra\frac{\partial%20T}{\partial%20x})
+combine and cancel p related term:
+
+![day7_3](https://latex.codecogs.com/svg.latex?\nabla^2(\frac{\partial%20v_x}{\partial%20y}%20-%20\frac{\partial%20v_x}{\partial%20y})=%20Ra\frac{\partial%20T}{\partial%20x})
+
+Use streamfunction：
+
+![day7_4](https://latex.codecogs.com/svg.latex?\nabla^2(\frac{\partial^2%20\psi}{\partial%20y^2}%20+%20\frac{\partial^2%20\psi}{\partial%20x^2})=%20Ra\frac{\partial%20T}{\partial%20x})
+
 
 
