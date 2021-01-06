@@ -28,8 +28,8 @@ Iterative Poisson solver.
 
 Use Poisson solver for two times for 2D convection along time.
 
-![day7_1](-\frac{\partial p}{\partial x}+\nabla^2v_x = 0)
+![day7_1](https://latex.codecogs.com/svg.latex?-\frac{\partial p}{\partial x}+\nabla^2v_x = 0)
 
-![day7_2](-\frac{\partial p}{\partial y}+\nabla^2v_y = -RaT)
+![day7_2](https://latex.codecogs.com/svg.latex?-\frac{\partial p}{\partial y}+\nabla^2v_y = -RaT)
 
 
