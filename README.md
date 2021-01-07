@@ -16,6 +16,8 @@ Basic Fortran knowledge.
 ![day4_1](https://latex.codecogs.com/svg.latex?\frac{\partial%20T}{\partial%20t}=\kappa(\frac{\partial^2%20T}{\partial%20x^2}%20+%20\frac{\partial^2%20T}{\partial%20y^2})) 
 
 <img src="day4/ex2-4/delta_result.png" width="320" height="240">
+<img src="day4/ex2-4/random_result.png" width="320" height="240">
+
 
 ## day5 ##
 
