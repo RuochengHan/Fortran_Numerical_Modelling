@@ -76,8 +76,11 @@ T(t) -> ω(T(t)) -> ψ -> v -> T(t+1)
 
 Ra = 0.1
 
-ω, ψ, T:
-<img src="day7/Pr-None_time-0.1_Ra-100000.0/w_result.png" width="320" height="240"> <img src="day7/Pr-None_time-0.1_Ra-100000.0/S_result.png" width="320" height="240"> <img src="day7/Pr-None_time-0.1_Ra-100000.0/T_result.png" width="320" height="240">
+ω, ψ:\
+<img src="day7/Pr-None_time-0.1_Ra-100000.0/w_result.png" width="320" height="240"> <img src="day7/Pr-None_time-0.1_Ra-100000.0/S_result.png" width="320" height="240"> 
+
+T:\
+<img src="day7/Pr-None_time-0.1_Ra-100000.0/T_result.png" width="320" height="240">
 
 
 
@@ -92,6 +95,24 @@ This is for no so high viscous fluid. When Pr = inf., it returns Poisson equatio
 
 loop t:\
 T(t) -> ω(T(t),t) -> ψ -> v -> T(t+1), w(t+1)
+
+Ra = 0.1
+Pr = 0.01
+
+ω, ψ:\
+<img src="day8/Pr-0.01_time-0.1_Ra-100000.0/w_result.png" width="320" height="240"> <img src="day8/Pr-0.01_time-0.1_Ra-100000.0/S_result.png" width="320" height="240"> 
+
+T:\
+<img src="day8/Pr-0.01_time-0.1_Ra-100000.0/T_result.png" width="320" height="240">
+
+Ra = 0.1
+Pr = 1
+
+ω, ψ:\
+<img src="day8/Pr-1_time-0.1_Ra-100000.0/w_result.png" width="320" height="240"> <img src="day8/Pr-1_time-0.1_Ra-100000.0/S_result.png" width="320" height="240"> 
+
+T:\
+<img src="day8/Pr-1_time-0.1_Ra-100000.0/T_result.png" width="320" height="240">
 
 ## day9 ##
 
