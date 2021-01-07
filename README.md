@@ -33,13 +33,16 @@ Streamfunction：
 loop t:\
 T(t) -> ψ -> v -> T(t+1)
 
-<img src="day5/01_image.png" width="320" height="240"> <img src="day5/1_image.png" width="320" height="240"> <img src="day5/10_image.png" width="320" height="240"> <img src="day5/100_image.png" width="320" height="240">
+<img src="day5/01_image.png" width="320" height="240"> <img src="day5/1_image.png" width="320" height="240"> 
+<img src="day5/10_image.png" width="320" height="240"> <img src="day5/100_image.png" width="320" height="240">
 
 ## day6 ##
 
 Iterative Poisson solver.
 
 ![day6_1](https://latex.codecogs.com/svg.latex?\frac{\partial^2%20u}{\partial%20x^2}%20+%20\frac{\partial^2%20u}{\partial%20y^2}=f)
+
+<img src="day6/V_257_image.png" width="320" height="240">
 
 ## day7 ##
 
@@ -69,6 +72,10 @@ Then:
 
 loop t:\
 T(t) -> ω(T(t)) -> ψ -> v -> T(t+1)
+
+ω, ψ, T:
+<img src="day7/w_result.png" width="320" height="240"> <img src="day7/S_result.png" width="320" height="240"> <img src="day7/T_result.png" width="320" height="240">
+
 
 
 ## day8 ##
