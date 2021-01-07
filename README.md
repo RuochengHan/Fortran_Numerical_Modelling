@@ -5,6 +5,10 @@ T: temperature
 x,y: direction
 
 
+## day1-3 ##
+
+Basic Fortran knowledge.
+
 ## day4 ##
 
 2D diffusion with initialization of spike and random. 
@@ -74,3 +78,6 @@ This is for no so high viscous fluid. When Pr = inf., it returns Poisson equatio
 loop t:\
 T(t) -> ω(T(t),t) -> ψ -> v -> T(t+1), w(t+1)
 
+## day9 ##
+
+Implicit, semi-implicit diffusion.
