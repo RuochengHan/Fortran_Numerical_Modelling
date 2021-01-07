@@ -21,7 +21,8 @@ x,y: direction
 
 ![day5_3](https://latex.codecogs.com/svg.latex?\psi=Bsin(\frac{\pi%20x}{x_{max}})sin(\frac{\pi%20y}{y_{max}})) 
 
-&psi -> v -> T
+loop:
+ψ -> v -> T
 
 ## day6 ##
 
