@@ -34,6 +34,7 @@ loop t:\
 T(t) -> ψ -> v -> T(t+1)
 
 <img src="day5/01_image.png" width="320" height="240"> <img src="day5/1_image.png" width="320" height="240"> 
+
 <img src="day5/10_image.png" width="320" height="240"> <img src="day5/100_image.png" width="320" height="240">
 
 ## day6 ##
@@ -73,8 +74,10 @@ Then:
 loop t:\
 T(t) -> ω(T(t)) -> ψ -> v -> T(t+1)
 
+Ra = 0.1
+
 ω, ψ, T:
-<img src="day7/w_result.png" width="320" height="240"> <img src="day7/S_result.png" width="320" height="240"> <img src="day7/T_result.png" width="320" height="240">
+<img src="day7/Pr-None_time-0.1_Ra-100000.0/w_result.png" width="320" height="240"> <img src="day7/Pr-None_time-0.1_Ra-100000.0/S_result.png" width="320" height="240"> <img src="day7/Pr-None_time-0.1_Ra-100000.0/T_result.png" width="320" height="240">
 
 
 
