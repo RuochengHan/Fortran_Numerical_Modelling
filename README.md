@@ -61,3 +61,13 @@ Then:
 loop:
 ω(T) -> ψ -> v -> T
 
+
+## day8 ##
+
+2D convection-diffusion along time with vorticity w depending on Prandtl number Pr.
+
+This is for no so high viscous fluid.
+
+![day8_1](https://latex.codecogs.com/svg.latex?\frac{1}{Pr}(\frac{\partial%20w}{\partial%20t}+v_x\frac{\partial%20w}{\partial%20x}+v_y\frac{\partial%20w}{\partial%20y})=\nabla^2%20w%20-%20Ra\frac{\partial%20T}{\partial%20x})
+
+
