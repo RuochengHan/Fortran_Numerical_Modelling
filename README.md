@@ -33,6 +33,8 @@ Streamfunction：
 loop t:\
 T(t) -> ψ -> v -> T(t+1)
 
+<img src="day5/01_image.png" width="320" height="240"> <img src="day5/1_image.png" width="320" height="240">
+
 ## day6 ##
 
 Iterative Poisson solver.
