@@ -48,11 +48,13 @@ Use streamfunction：
 
 ![day7_4](https://latex.codecogs.com/svg.latex?\nabla^2(\frac{\partial^2%20\psi}{\partial%20y^2}%20+%20\frac{\partial^2%20\psi}{\partial%20x^2})=%20Ra\frac{\partial%20T}{\partial%20x})
 
+Then: 
+
 ![day7_5](https://latex.codecogs.com/svg.latex?\nabla^2\psi=%20w)
 
 ![day7_6](https://latex.codecogs.com/svg.latex?\nabla^2%20w%20=%20Ra\frac{\partial%20T}{\partial%20x})
 
-
+![day7_7](https://latex.codecogs.com/svg.latex?\frac{\partial%20T}{\partial%20t}=-v_x\frac{\partial%20T}{\partial%20x}%20-%20v_y\frac{\partial%20T}{\partial%20y}%20+%20\kappa(\frac{\partial^2%20T}{\partial%20x^2}%20+%20\frac{\partial^2%20T}{\partial%20y^2})) 
 
 loop:
 ω(T) -> ψ -> v -> T
