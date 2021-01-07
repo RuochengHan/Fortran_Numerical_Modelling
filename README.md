@@ -23,8 +23,8 @@ Streamfunction：
 
 ![day5_3](https://latex.codecogs.com/svg.latex?\psi=Bsin(\frac{\pi%20x}{x_{max}})sin(\frac{\pi%20y}{y_{max}})) 
 
-loop:
-ψ -> v -> T
+loop t:\
+T(t) -> ψ -> v -> T(t+1)
 
 ## day6 ##
 
@@ -58,16 +58,19 @@ Then:
 
 ![day7_7](https://latex.codecogs.com/svg.latex?\frac{\partial%20T}{\partial%20t}=-v_x\frac{\partial%20T}{\partial%20x}%20-%20v_y\frac{\partial%20T}{\partial%20y}%20+%20\kappa(\frac{\partial^2%20T}{\partial%20x^2}%20+%20\frac{\partial^2%20T}{\partial%20y^2})) 
 
-loop:
-ω(T) -> ψ -> v -> T
+loop t:\
+T(t) -> ω(T(t)) -> ψ -> v -> T(t+1)
 
 
 ## day8 ##
 
-2D convection-diffusion along time with vorticity w depending on Prandtl number Pr.
-
-This is for no so high viscous fluid.
+2D convection-diffusion along time with vorticity w depending on Prandtl number Pr. \
+This is for no so high viscous fluid. When Pr = inf., it returns Poisson equation as in day7.
 
 ![day8_1](https://latex.codecogs.com/svg.latex?\frac{1}{Pr}(\frac{\partial%20w}{\partial%20t}+v_x\frac{\partial%20w}{\partial%20x}+v_y\frac{\partial%20w}{\partial%20y})=\nabla^2%20w%20-%20Ra\frac{\partial%20T}{\partial%20x})
 
+![day8_2](https://latex.codecogs.com/svg.latex?\frac{\partial%20T}{\partial%20t}=-v_x\frac{\partial%20T}{\partial%20x}%20-%20v_y\frac{\partial%20T}{\partial%20y}%20+%20\kappa(\frac{\partial^2%20T}{\partial%20x^2}%20+%20\frac{\partial^2%20T}{\partial%20y^2})) 
+
+loop t:\
+T(t) -> ω(T(t),t) -> ψ -> v -> T(t+1), w(t+1)
 
