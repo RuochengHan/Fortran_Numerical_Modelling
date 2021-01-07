@@ -54,3 +54,6 @@ Use streamfunction：
 
 
 
+loop:
+ω(T) -> ψ -> v -> T
+
